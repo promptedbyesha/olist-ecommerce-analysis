@@ -32,7 +32,7 @@ Olist Brazilian E-commerce Dataset (100K+ orders):
 
 ## 📊 Dashboard Preview
 
-![Dashboard](<img width="1350" height="730" alt="image" src="https://github.com/user-attachments/assets/def99151-8fdf-461d-803a-b6b937ccfbaf" />
+![Dashboard](<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/defc109e-185a-4b06-ada5-c6c050fffa3b" />
 )
 
 ---
