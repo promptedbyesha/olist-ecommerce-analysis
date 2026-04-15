@@ -32,8 +32,9 @@ Olist Brazilian E-commerce Dataset (100K+ orders):
 
 ## 📊 Dashboard Preview
 
-![Dashboard](<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/defc109e-185a-4b06-ada5-c6c050fffa3b" />
-)
+<p align="center">
+  <img src="images/Dashboard.png" width="900"/>
+</p>
 
 ---
 
@@ -75,10 +76,26 @@ Explore the interactive dashboard:
 
 ## 📊 Cohort Analysis
 
-![Cohort Heatmap](<img width="2198" height="1482" alt="image" src="https://github.com/user-attachments/assets/785ed1f2-f250-4cc9-aac9-48b59498a052" />
-)
+<p align="center">
+  <img src="images/cohort_heatmap.png" width="900"/>
+</p>
 
 Month-2 retention remains consistently low across all cohorts, indicating a critical opportunity to improve early lifecycle engagement.
+
+---
+
+## 📂 Project Structure
+
+| Folder/File | Description |
+|------------|------------|
+| `README.md` | Project overview, insights, and dashboard preview |
+| `funnel_analysis.sql` | SQL queries for funnel drop-off analysis |
+| `cohort_analysis.ipynb` | Python notebook for cohort retention analysis |
+| `data_loading.ipynb` | Data cleaning and preprocessing steps |
+| `Insight_document.pdf` | Final business insights and recommendations |
+| `PROJECT_LINKS.md` | Quick access to Tableau dashboard & resources |
+| `images/Dashboard.png` | Tableau dashboard preview image |
+| `images/cohort_heatmap.png` | Cohort retention heatmap |
 
 ---
 
